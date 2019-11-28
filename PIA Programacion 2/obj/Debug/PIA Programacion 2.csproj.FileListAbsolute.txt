@@ -1,0 +1,98 @@
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csprojAssemblyReference.cache
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.Properties.Resources.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.GenerateResource.cache
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CoreCompileInputs.cache
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe.config
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.pdb
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamiones.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpleados.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmMunicipios.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmRutas.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmTipoEmpleado.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CopyComplete
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.exe
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.pdb
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmColonias.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpresa.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.frmVueltas.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmTipoUsuarios.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmUsuarios.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamionRuta.resources
+C:\Users\abcustoms\source\repos\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmChoferCamion.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe.config
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.pdb
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csprojAssemblyReference.cache
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamiones.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamionRuta.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmChoferCamion.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmColonias.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpleados.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpresa.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmMunicipios.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmRutas.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmTipoEmpleado.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmTipoUsuarios.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmUsuarios.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.frmVueltas.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.Properties.Resources.resources
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.GenerateResource.cache
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CopyComplete
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.exe
+C:\Users\Alejandro Jiménez\Desktop\PIA Programación\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.pdb
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csprojAssemblyReference.cache
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamiones.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamionRuta.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmChoferCamion.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmColonias.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpleados.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpresa.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmMunicipios.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmRutas.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmTipoEmpleado.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmUsuarios.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.frmVueltas.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.Properties.Resources.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.ReporteMunicipioRutas.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.GenerateResource.cache
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CoreCompileInputs.cache
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.exe
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.pdb
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe.config
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.pdb
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CopyComplete
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.ReportePuestoEmpleado.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmLogin.resources
+C:\Users\abcustoms\Desktop\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmMenu.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe.config
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.exe
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\bin\Debug\PIA Programacion 2.pdb
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csprojAssemblyReference.cache
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamiones.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmCamionRuta.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmChoferCamion.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmColonias.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpleados.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmEmpresa.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmLogin.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmMenu.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmMunicipios.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmRutas.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmTipoEmpleado.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.FrmUsuarios.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.frmVueltas.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.Properties.Resources.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.ReporteMunicipioRutas.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA_Programacion_2.ReportePuestoEmpleado.resources
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.GenerateResource.cache
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CoreCompileInputs.cache
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.csproj.CopyComplete
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.exe
+C:\Users\abcustoms\Desktop\proyGpo33RaulRodriguez\PIA Programacion 2\PIA Programacion 2\obj\Debug\PIA Programacion 2.pdb
